@@ -1,0 +1,12 @@
+.gradle
+.idea
+.vertx
+out
+build
+dist
+dokku
+dokku-dev
+rebel.xml
+*.iml
+node_modules/
+$/node_modules/
